@@ -1,4 +1,5 @@
 #include "pitches.h"
+#include <stdio.h>
 
 const int buttonNote = 2;
 const int buttonChord = 3;
