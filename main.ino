@@ -10,7 +10,7 @@ void setup() {
     // put your setup code here, to run once:
     pinMode(buttonNote, INPUT);
     pinMode(buttonChord, INPUT);
-    pinmode(buttonReplay, IMPIT)
+    pinmode(buttonReplay, INPUT)
 }
 
 void loop() {
