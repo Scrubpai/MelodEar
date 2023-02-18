@@ -19,3 +19,13 @@ void loop() {
     // outpjut a note ?
     
 }
+
+
+
+/*
+void loop0 {
+digitalWrite(LED_BUILTIN, HIGH); //turns on
+digitalWrite(LED_BUILTIN, LOW) ; //turns off
+delay (1000); //wait 1 second
+}
+*/
